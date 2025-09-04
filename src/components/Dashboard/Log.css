@@ -1,0 +1,13 @@
+.form {
+  margin: auto;
+  width: 50%;
+  border: 3px solid rgb(1, 50, 1);
+  padding: 10px;
+}
+
+.piano_icon {
+    margin: auto;
+    height: 50%;
+    width: 20%;
+    align: left;
+}
